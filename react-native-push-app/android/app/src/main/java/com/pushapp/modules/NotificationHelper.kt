@@ -1,5 +1,4 @@
 package com.pushapp.modules
-
 import android.app.NotificationChannel
 import android.app.NotificationManager
 import android.app.PendingIntent
